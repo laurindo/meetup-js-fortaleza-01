@@ -10,7 +10,7 @@ Nosso primeiro meetup aconteceu no dia 14/10/2017, esperamos periodicamente orga
   - Dashboard Real Time (use case) - Daniel Laurindo
     * [github](https://github.com/laurindo)
     * [link do projeto apresentado](http://)
-    * [usando a API do blockchain + webscoket + nodejs](https://medium.com/@dslaurindo/recebendo-bitcoins-em-realtime-usando-a-api-da-blockchain-websocket-nodejs-e40a60551817)
+    * [usando a API do blockchain + websocket + nodejs](https://medium.com/@dslaurindo/recebendo-bitcoins-em-realtime-usando-a-api-da-blockchain-websocket-nodejs-e40a60551817)
   - Criando aplicações com Vue.js - Felipe César
     * [link da palestra](https://www.slideshare.net/jeanfelipecc/criando-aplicaes-com-vuejs)
   - Próxima* geração de APIs com GraphQL - Júlio Sampaio
